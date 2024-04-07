@@ -1,0 +1,17 @@
+{
+    "name": "nikita/fhtang",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikita",
+            "email": "moviex@inbox.ru"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.8"
+    }
+}
