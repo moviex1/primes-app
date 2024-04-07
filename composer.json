@@ -1,5 +1,5 @@
 {
-    "name": "nikita/fhtang",
+    "name": "nikita/fhtagn",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
